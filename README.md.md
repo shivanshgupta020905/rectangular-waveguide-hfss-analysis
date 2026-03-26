@@ -31,10 +31,10 @@ Simulation and analysis of a rectangular waveguide using HFSS to study mode prop
 
 
 
-###### S-Parameters
+###### S-Parameters ![S Parameters](Results/S parameter plot for different modes.jpeg)
 
-* TE₁₀ cutoff observed at \~6.5 GHz
-* Higher-order modes appear at higher frequencies
+* TE₁₀ cutoff observed at \~6.5 GHz ![TE10](Results/TE10_above_cutoff_Mag_E.png)
+* Higher-order modes appear at higher frequencies ![TE11](Results/TE11_above_cutoff_Mag_E.png)
 
 
 
